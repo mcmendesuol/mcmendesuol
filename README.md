@@ -1,24 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/> Welcome to my GitHub! </h1>
 
-> Me chamo Marcelo, tenho 24 anos. Atualmente curso Sistemas de Informação pela Pontifícia Universidade Católicas de Minas Gerais e trabalho como desenvolvedor android na @americanas s.a. Sou uma pessoa conversativa e curiosa, sou proativo, assim trabalhando muito bem em equipe e sou apaixonado por tecnologia. Meu lema é que eu tenho sorte, sorte de fazer o que eu amo e receber por isso, pois meu sonho é sempre ajudar a sociedade com a tecnologia.
+> Me chamo Marcelo, tenho 25 anos. Atualmente curso Sistemas de Informação pela Pontifícia Universidade Católicas de Minas Gerais e trabalho como desenvolvedor android na @americanas s.a. Sou uma pessoa conversativa e curiosa, sou proativo, assim trabalhando muito bem em equipe e sou apaixonado por tecnologia. Meu lema é que eu tenho sorte, sorte de fazer o que eu amo e receber por isso, pois meu sonho é sempre ajudar a sociedade com a tecnologia.
 
 </br>
-
-<p align="center">
-  <a href="https://github.com/maeceloacm1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=maeceloacm1998&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maeceloacm1998&layout=compact&langs_count=8"/>
-</a>
-  <br/>
-  <br/>
-  <a target="_blank" href="https://www.linkedin.com/in/marcelochmendes/?locale=en_US">
-    <img src="/icons/linkedin.png">
-  </a>
-  <a target="_blank" href="https://www.instagram.com/tcheloo.jsx/">
-    <img src="/icons/instagram.png">
-  </a>
-
-</p>
 
 ### Hard-Skills 🛠
 
