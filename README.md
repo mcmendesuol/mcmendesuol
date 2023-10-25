@@ -2,8 +2,6 @@
 
 > Me chamo Marcelo, tenho 25 anos. Atualmente curso Sistemas de Informação pela Pontifícia Universidade Católicas de Minas Gerais e trabalho como desenvolvedor android no @PagSeguro
 
-</br>
-
 ### Hard-Skills 🛠
 
 ![React](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
